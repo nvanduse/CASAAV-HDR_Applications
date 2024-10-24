@@ -1,5 +1,5 @@
 # CASAAV-HDR_Applications
-Scripts for CASAAV-HDR applications manuscript
+Scripts for CASAAV-HDR applications manuscript.
 Excerpts from the manuscript methods section describing each analysis are below:
 
 Analysis of calcium transients
